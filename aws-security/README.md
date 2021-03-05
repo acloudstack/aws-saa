@@ -27,8 +27,10 @@ marp: true
 - What - Data is encrypted by the client and never decrypted by Server
 - Why - Protects the data even if someone gets access to server
 - How - Data is encrypted after being received and decrypted before being sent with the help of a key. The keys are managed at a place and accessible to the server.
+
 ---
 ![alt text right](./assets/encrypt-decrypt.png "encrypt-decrypt")
+
 ---
 ## AWS KMS
 - What - 
@@ -63,6 +65,7 @@ marp: true
 - AWS Secrets Manager
 - WAF & Shield
   - Shield - layer 3, layer 4
+  - WAF - layer 7
 - https://docs.aws.amazon.com/waf/latest/developerguide/waf-which-to-choose.html
 - 
   
