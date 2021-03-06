@@ -12,8 +12,12 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 Install SAM CLI:
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-linux.html
 
-
-
+1. IAM
+2. Detection: AWS Security Hub (Unified Security and Compliance Center)
+3. Infrastructure Protection: AWS WAF (Filter Malicious Traffic)
+4. Data Protection: Amazon Macie (Discover and Protect your sensitive data at scale)
+5. Incident Response:
+6. Compliance:
 
 Amazon Macie:
 Fully managed data security and data privacy service
