@@ -19,6 +19,12 @@ https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/s
 5. Incident Response:
 6. Compliance:
 
+
+1. How AI is driving the decision making
+2. AWS Security Landscape
+3. What we have covered so far
+4. How Macie solves the problem
+
 Amazon Macie:
 Fully managed data security and data privacy service
 Automatically discover, classify, and protect sensitive data in Amazon S3 buckets
